@@ -1,3 +1,10 @@
+# nwitter
+
+- [x] LogIn, LogOut
+- [x] Social LogIn(google, github)
+
+[try it out](https://hamjihyeon.github.io/nwitter/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
