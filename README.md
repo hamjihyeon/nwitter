@@ -6,3 +6,4 @@
 - [x] Realtime Nweets(write, read)
 - [x] Delete and Update(edit)
 - [x] Preview Images
+- [x] Uploadig Images
