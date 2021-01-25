@@ -8,3 +8,4 @@
 - [x] Preview Images
 - [x] Uploadig Images
 - [x] File Url & Nweet
+- [x] Deleting Files
