@@ -7,3 +7,4 @@
 - [x] Delete and Update(edit)
 - [x] Preview Images
 - [x] Uploadig Images
+- [x] File Url & Nweet
