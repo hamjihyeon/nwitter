@@ -9,3 +9,4 @@
 - [x] Uploadig Images
 - [x] File Url & Nweet
 - [x] Deleting Files
+- [x] Edit Profile
